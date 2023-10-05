@@ -1,5 +1,7 @@
 # comparing-classification-prediction-models
 
+_Notebook is in Indonesian._
+
 As the title of this repo stated, I compare some classification algorithms on a dataset to predict a variable of the dataset.
 
 The algorithms I used are:
